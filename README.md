@@ -2,7 +2,7 @@
 
 This small react app will keep the list of all the netflix series and show them.
 
-## what i used to build this react app
+## what I used to build this react app?
   1. React
   2. css
 
@@ -20,6 +20,6 @@ This small react app will keep the list of all the netflix series and show them.
   
  ### Note -
     the following things must be installed in your pc
-      - node
+      -node
       -react
       -git 
